@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Bungee+Shade");
+
 .App {
   font-family: sans-serif;
   text-align: center;
@@ -11,4 +13,8 @@ body {
     rgba(1, 139, 81) 0%,
     rgba(0, 0, 136) 100%
   );
+}
+h1 {
+  font-family: "Bungee Shade", cursive;
+  color: #00cccc;
 }
