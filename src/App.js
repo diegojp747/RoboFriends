@@ -23,7 +23,7 @@ class App extends Component {
         .toLowerCase()
         .includes(this.state.searchField.toLowerCase());
     });
-    console.log(filteredRobots);
+
     return (
       <div className="tc">
         <h1>RoboFriends</h1>
